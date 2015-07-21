@@ -6,8 +6,8 @@
 
 Just copy `51-android.rules` into `/etc/udev/rules.d/` directory and run this command:
 
-	```sh
-	$ sudo /etc/init.d/udev reload
-	```
+```sh
+$ sudo /etc/init.d/udev reload
+```
 
 For more information check [Android Developer documentation](http://developer.android.com/tools/device.html).
