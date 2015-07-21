@@ -5,6 +5,7 @@
 ##How to use it?
 
 Just copy `51-android.rules` into `/etc/udev/rules.d/` directory and run this command:
+
 	```sh
 	$ sudo /etc/init.d/udev reload
 	```
